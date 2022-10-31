@@ -42,7 +42,7 @@ variable "operating_regions" {
 ```
 
 ## Examples
-Refer to the [examples](https://github.com/rajdeep617/terraform-aws-ipam-module/tree/main/examples) directory in this GitHub repository for complete terraform code example. 
+Refer to the [examples](https://github.com/rajdeep617/terraform-aws-ipam-module/tree/master/examples) directory in this GitHub repository for complete terraform code example. 
 
 ## Known issues
 
